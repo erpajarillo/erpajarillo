@@ -47,5 +47,5 @@
 
 </details>
 
-[website]: https://raul.gg
+[website]: 
 [linkedin]: https://www.linkedin.com/in/raulgonzgar/
